@@ -1,1 +1,1 @@
-# nowy
+# prosty_projekt
